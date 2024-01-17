@@ -1,0 +1,4 @@
+enum CacheKeys{
+  favorite,
+  unFavorite
+}
